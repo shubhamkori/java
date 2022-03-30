@@ -10,7 +10,6 @@ public class reverse {
         System.out.println(
             "Reverse order of given List :- ");
  
-        // the number list will be reversed using this method
         Collections.reverse(number);
        
         System.out.println(number);
